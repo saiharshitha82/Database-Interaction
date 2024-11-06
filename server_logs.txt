@@ -1,0 +1,13 @@
+INFO: Starting server on port 8080
+ERROR: File not found
+WARNING: Disk space running low
+INFO: User logged in successfully
+ERROR: Connection timeout
+WARNING: Memory usage high
+ERROR: File not found
+ERROR: Unauthorized access attempt
+INFO: Request processed
+ERROR: Connection timeout
+WARNING: Disk space running low
+ERROR: Unauthorized access attempt
+INFO: Server shutting down
